@@ -1,0 +1,1317 @@
+"<quano>"
+	"*quano" 
+
+"<Barone>"
+	"*Barone" 
+
+"<Arluno>"
+	"*Arluno" 
+
+"<Romanda>"
+	"*Romanda" 
+
+"<purpettelle>"
+	"*purpettelle" 
+
+"<Nicoletti>"
+	"*Nicoletti" 
+
+"<Auropee>"
+	"*Auropee"
+ 
+"<Sarei>"
+	"*Sarei" 
+
+"<Sustinente>"
+	"*Sustinente" 
+
+"<presentaje>"
+	"*presentaje" 
+
+"<propreto>"
+	"*propreto"
+
+"<avéssene>"
+	"*avéssene"
+
+"<Precenico>"
+	"*Precenico"
+
+"<Sò>"
+	"*Sò"
+
+"<ch'assaje>"
+	"*ch'assaje"
+
+"<Trissino>"
+	"*Trissino"
+
+"<cchiò>"
+	"*cchiò"
+
+"<frisch>"
+	"*frisch"
+
+"<rinunciaje>"
+	"*rinunciaje"
+
+"<Galeata>"
+	"*Galeata"
+
+"<Cefalù>"
+	"*Cefalù"
+
+"<vallutazziune>"
+	"*vallutazziune"
+
+"<presa>"
+	"*presa"
+
+"<funnera>"
+	"*funnera"
+
+"<Pul>"
+	"*Pul"
+
+"<Fìsh>"
+	"*Fìsh"
+
+"<adiologgeche>"
+	"*adiologgeche"
+
+"<càmmera>"
+	"*càmmera"
+
+"<dimensione>"
+	"*dimensione"
+
+"<ran>"
+	"*ran"
+
+"<Pistoiese>"
+	"*Pistoiese"
+
+"<pacche>"
+	"*pacche"
+
+"<Islanda>"
+	"*Islanda" 
+
+"<nniente>"
+	"*nniente"
+
+"<Militu>"
+	"*Militu" 
+
+"<casatiéllo>"
+	"*casatiéllo" 
+
+"<urprennente>"
+	"*urprennente"
+
+"<per>"
+	"per" pr
+
+"<Libbano>"
+	"*Libbano" 
+"<gavetta>"
+	"*gavetta"
+
+"<l'Algirìa>"
+	"*l'Algirìa"
+
+"<Manacorda>"
+	"*Manacorda"
+
+"<Istituita>"
+	"*Istituita"
+
+"<fallette>"
+	"*fallette"
+
+"<assecurate>"
+	"*assecurate"
+
+"<Costruttori>"
+	"*Costruttori"
+
+"<lesta>"
+	"*lesta"
+
+"<Arresi>"
+	"*Arresi"
+
+"<Reserva>"
+	"*Reserva"
+
+"<fiocchi>"
+	"*fiocchi"
+
+"<Cicerenella>"
+	"*Cicerenella"
+
+"<famusa>"
+	"*famusa"
+
+"<campionati>"
+	"*campionati"
+
+"<agglumerato>"
+	"*agglumerato"
+
+"<Lima>"
+	"*Lima"
+
+"<alëvezza>"
+	"*alëvezza"
+
+"<ll'aragunese>"
+	"*ll'aragunese"
+
+"<musdée>"
+	"*musdée"
+
+"<ncurneciate>"
+	"*ncurneciate"
+
+"<orografiche>"
+	"*orografiche"
+
+"<d'appriparà>"
+	"*d'appriparà"
+
+"<Burgraviato>"
+	"*Burgraviato"
+
+"<attrazzioni>"
+	"*attrazzioni"
+
+"<Padrone>"
+	"*Padrone"
+
+"<rinforza>"
+	"*rinforza"
+
+"<Pirë>"
+	"*Pirë"
+
+"<cuntemporaneamente>"
+	"*cuntemporaneamente"
+
+"<gemellato>"
+	"*gemellato"
+
+"<tiempe>"
+	"*tiempe"
+
+"<un'intervista>"
+	"*un'intervista"
+
+"<fundraiser>"
+	"*fundraiser"
+
+"<ubmëditërranëa>"
+	"*ubmëditërranëa"
+
+"<Serrungarina>"
+	"*Serrungarina"
+
+"<Giuffrè>"
+	"*Giuffrè"
+
+"<chiammajeno>"
+	"*chiammajeno"
+
+"<appejárene>"
+	"*appejárene"
+
+"<Formigine>"
+	"*Formigine"
+
+"<mussulmano>"
+	"*mussulmano"
+
+"<coprincipe>"
+	"*coprincipe"
+
+"<repassat’a>"
+	"*repassat’a"
+
+"<puoch>"
+	"*puoch"
+
+"<esišt>"
+	"*esišt"
+
+"<d'Erfurt>"
+	"*d'Erfurt"
+
+"<D'Aquine>"
+	"*D'Aquine"
+
+"<arrevà>"
+	"*arrevà"
+
+"<à>"
+	"*à"
+
+"<Gergei>"
+	"*Gergei"
+
+"<Scandenavia>"
+	"*Scandenavia"
+
+"<Ravara>"
+	"*Ravara"
+
+"<Cossignano>"
+	"*Cossignano"
+
+"<d'eruzzione>"
+	"*d'eruzzione"
+
+"<esotice>"
+	"*esotice"
+
+"<Kamil>"
+	"*Kamil"
+
+"<arricetta>"
+	"*arricetta"
+
+"<uod>"
+	"*uod"
+
+"<S'hadda>"
+	"*S'hadda"
+
+"<italiano>"
+	"*italiano"
+
+"<cinquantadòje>"
+	"*cinquantadòje"
+
+"<ua>"
+	"*ua"
+
+"<ultimà>"
+	"*ultimà"
+
+"<Leone>"
+	"*Leone"
+
+"<Pullitro>"
+	"*Pullitro"
+
+"<italiana>"
+	"*italiana"
+
+"<massarìa>"
+	"*massarìa"
+
+"<reggione>"
+	"*reggione"
+
+"<amministr'>"
+	"*amministr'"
+
+"<túbbere>"
+	"*túbbere"
+
+"<napeletane>"
+	"*napeletane"
+
+"<l’asterisco>"
+	"*l’asterisco"
+
+"<etnica>"
+	"*etnica"
+
+"<Bomis>"
+	"*Bomis"
+
+"<Paruliere>"
+	"*Paruliere"
+
+"<zamba>"
+	"*zamba"
+
+"<n'artista>"
+	"*n'artista"
+
+"<Règgia>"
+	"*Règgia"
+
+"<L'Aja>"
+	"*L'Aja"
+
+"<circondario>"
+	"*circondario"
+
+"<quotate>"
+	"*quotate"
+
+"<picca>"
+	"*picca"
+
+"<Krasnaja>"
+	"*Krasnaja"
+
+"<giustiziati>"
+	"*giustiziati"
+
+"<bbera>"
+	"*bbera"
+
+"<êva>"
+	"*êva"
+
+"<fèlla>"
+	"*fèlla"
+
+"<fresco>"
+	"*fresco"
+
+"<Codevilla>"
+	"*Codevilla"
+
+"<Campaldino>"
+	"*Campaldino"
+
+"<Reggiunale>"
+	"*Reggiunale"
+
+"<Curradino>"
+	"*Curradino"
+
+"<León>"
+	"*León"
+
+"<IIIe>"
+	"*IIIe"
+
+"<Malepenziero>"
+	"*Malepenziero"
+
+"<facetta>"
+	"*facetta"
+
+"<Teide>"
+	"*Teide"
+
+"<affronta>"
+	"*affronta"
+
+"<Palmas>"
+	"*Palmas"
+
+"<Pontifices>"
+	"*Pontifices"
+
+"<riavulo>"
+	"*riavulo"
+
+"<peculesse>"
+	"*peculesse"
+
+"<verevano>"
+	"*verevano"
+
+"<trìatro>"
+	"*trìatro"
+
+"<Quaresma>"
+	"*Quaresma"
+
+"<Griffo>"
+	"*Griffo"
+
+"<decisionale>"
+	"*decisionale"
+
+"<finali>"
+	"*finali"
+
+"<urco>"
+	"*urco"
+
+"<e'ngresi>"
+	"*e'ngresi"
+
+"<Roccabruna>"
+	"*Roccabruna"
+
+"<fecatielle>"
+	"*fecatielle"
+
+"<Eremo>"
+	"*Eremo"
+
+"<trascuraje>"
+	"*trascuraje"
+
+"<fernette>"
+	"*fernette"
+
+"<piscatora>"
+	"*piscatora"
+
+"<elettrone>"
+	"*elettrone"
+
+"<cumuni>"
+	"cumune" n m pl
+
+"<tazzjona>"
+	"*tazzjona"
+
+"<truate>"
+	"*truate"
+
+"<epulture>"
+	"*epulture"
+
+"<gurfo>"
+	"*gurfo"
+
+"<ppecure>"
+	"*ppecure"
+
+"<decrecato>"
+	"*decrecato"
+
+"<Costarainera>"
+	"*Costarainera"
+
+"<vattienti>"
+	"*vattienti"
+
+"<l’ajuta>"
+	"*l’ajuta"
+
+"<Milis>"
+	"*Milis"
+
+"<Cinematografia>"
+	"*Cinematografia"
+
+"<Genovese>"
+	"*Genovese"
+
+"<purtat>"
+	"*purtat"
+
+"<Supercoppe>"
+	"*Supercoppe"
+
+"<viceversa>"
+	"*viceversa"
+
+"<ll'Iraq>"
+	"*ll'Iraq"
+
+"<simu>"
+	"*simu"
+
+"<hamigghja>"
+	"*hamigghja"
+
+"<Depardieu>"
+	"*Depardieu"
+
+"<avrebbe>"
+	"*avrebbe"
+
+"<'>"
+	"'" sent
+"<appreparasse>"
+	"*appreparasse"
+
+"<Cosenza>"
+	"*Cosenza"
+
+"<pruvvisoriamente>"
+	"*pruvvisoriamente"
+
+"<Giulie>"
+	"*Giulie"
+
+"<l'Hamòn>"
+	"*l'Hamòn"
+
+"<Martelli>"
+	"*Martelli"
+
+"<Escolca>"
+	"*Escolca"
+
+"<Questo>"
+	"*Questo"
+
+"<Film>"
+	"*Film"
+
+"<l'isolotto>"
+	"*l'isolotto"
+
+"<Commissari>"
+	"*Commissari"
+
+"<altèzza>"
+	"*altèzza"
+
+"<ppoco>"
+	"*ppoco"
+
+"<Troja>"
+	"*Troja"
+
+"<Calvello>"
+	"*Calvello"
+
+"<pandeche>"
+	"*pandeche"
+
+"<Botticino>"
+	"*Botticino"
+
+"<pussìbbele>"
+	"*pussìbbele"
+
+"<Breslavia>"
+	"*Breslavia"
+
+"<Trip>"
+	"*Trip"
+
+"<mulegnane>"
+	"*mulegnane"
+
+"<Illiri>"
+	"*Illiri"
+
+"<nu>"
+	"nu" det ind mf sg
+
+"<vulévano>"
+	"*vulévano"
+
+"<Greczek>"
+	"*Greczek"
+
+"<Pecurare>"
+	"*Pecurare"
+
+"<Crowe>"
+	"*Crowe"
+
+"<Camere>"
+	"*Camere"
+
+"<infermi>"
+	"*infermi"
+
+"<nùmmuro>"
+	"*nùmmuro"
+
+"<Vallune>"
+	"*Vallune"
+
+"<caulisciore>"
+	"*caulisciore"
+
+"<p'ati>"
+	"*p'ati"
+
+"<vedeva>"
+	"*vedeva"
+
+"<Ponzano>"
+	"*Ponzano"
+
+"<ebraeco>"
+	"*ebraeco"
+
+"<bbreve>"
+	"*bbreve"
+
+"<Perrero>"
+	"*Perrero"
+
+"<c'addefènnono>"
+	"*c'addefènnono"
+
+"<assjeme>"
+	"*assjeme"
+
+"<ze>"
+	"*ze"
+
+"<aje>"
+	"*aje"
+
+"<Camões>"
+	"*Camões"
+
+"<tuoste>"
+	"*tuoste"
+
+"<hatta>"
+	"*hatta"
+
+"<temple>"
+	"*temple"
+
+"<Rialite>"
+	"*Rialite"
+
+"<Marinaio>"
+	"*Marinaio"
+
+"<Assemini>"
+	"*Assemini"
+
+"<Pofi>"
+	"*Pofi"
+
+"<Antipatro>"
+	"*Antipatro"
+
+"<prupiamente>"
+	"*prupiamente"
+
+"<assettà>"
+	"*assettà"
+
+"<recheta>"
+	"*recheta"
+
+"<Foris>"
+	"*Foris"
+
+"<chiejà>"
+	"*chiejà"
+
+"<austriaco>"
+	"*austriaco"
+
+"<minute>"
+	"*minute"
+
+"<Trent'Anne>"
+	"*Trent'Anne"
+
+"<campette>"
+	"*campette"
+
+"<persunale>"
+	"*persunale"
+
+"<Canosa>"
+	"*Canosa"
+
+"<iniziative>"
+	"*iniziative"
+
+"<Ricceddi>"
+	"*Ricceddi"
+
+"<vufera>"
+	"*vufera"
+
+"<Myra>"
+	"*Myra"
+
+"<crivette>"
+	"*crivette"
+
+"<ll'Unione>"
+	"*ll'Unione"
+
+""
+"<^E'>"
+	"e'" det def f pl
+
+"<lottà>"
+	"*lottà"
+
+"<Montaguto>"
+	"*Montaguto"
+
+"<'>"
+	"'" sent
+"<êveno>"
+	"*êveno"
+
+"<pubblicamente>"
+	"*pubblicamente"
+
+"<Nfronte>"
+	"*Nfronte"
+
+"<ripetuto>"
+	"*ripetuto"
+
+"<Summonte>"
+	"*Summonte"
+
+"<cummercio>"
+	"*cummercio"
+
+"<assjae>"
+	"*assjae"
+
+"<avvanta>"
+	"*avvanta"
+
+"<Reggello>"
+	"*Reggello"
+
+"<narrantur>"
+	"*narrantur"
+
+"<Melfa>"
+	"*Melfa"
+
+"<Vièrde>"
+	"*Vièrde"
+
+"<Hilbert>"
+	"*Hilbert"
+
+"<apparecchi>"
+	"*apparecchi"
+
+"<nizzialmente>"
+	"*nizzialmente"
+
+"<Florent>"
+	"*Florent"
+
+"<traguardo>"
+	"*traguardo"
+
+"<Gais>"
+	"*Gais"
+
+"<ordinajene>"
+	"*ordinajene"
+
+"<annanz>"
+	"*annanz"
+
+"<ll'utiente>"
+	"*ll'utiente"
+
+"<ll'ANICA>"
+	"*ll'ANICA"
+
+"<cucìna>"
+	"*cucìna"
+
+"<priat>"
+	"*priat"
+
+"<ccanoscere>"
+	"*ccanoscere"
+
+"<Campofelice>"
+	"*Campofelice"
+
+"<grafe>"
+	"*grafe"
+
+"<fondo>"
+	"*fondo"
+
+"<ddispiri>"
+	"*ddispiri"
+
+"<Luigi>"
+	"*Luigi"
+
+"<Mertens>"
+	"*Mertens"
+
+"<all'arrivo>"
+	"*all'arrivo"
+
+"<uccedenno>"
+	"*uccedenno"
+
+"<Spogna>"
+	"*Spogna"
+
+"<attivamente>"
+	"*attivamente"
+
+"<fejéva>"
+	"*fejéva"
+
+"<nummenanno>"
+	"*nummenanno"
+
+"<federazziune>"
+	"*federazziune"
+
+- 
+"<^fessaria>"
+	"*fessaria"
+
+"<Lardini>"
+	"*Lardini"
+
+"<puonn>"
+	"*puonn"
+
+"<maéstra>"
+	"*maéstra"
+
+"<funziunava>"
+	"*funziunava"
+
+"<emmanale>"
+	"*emmanale"
+
+"<passagaglio>"
+	"*passagaglio"
+
+"<Cerreto>"
+	"*Cerreto"
+
+"<folta>"
+	"*folta"
+
+"<Sulamènd>"
+	"*Sulamènd"
+
+"<mbarca>"
+	"*mbarca"
+
+"<conjuge>"
+	"*conjuge"
+
+"<italicus>"
+	"*italicus"
+
+"<Sinello>"
+	"*Sinello"
+
+"<rivuluzione>"
+	"*rivuluzione"
+
+
+"<Cenerentula>"
+	"*Cenerentula"
+
+"<d’asà>"
+	"*d’asà"
+
+"<bastemiente>"
+	"*bastemiente"
+
+"
+"<^Vi>"
+	"*Vi"
+
+"<Date>"
+	"*Date"
+
+"<aromatiche>"
+	"*aromatiche"
+
+"<Heinz>"
+	"*Heinz"
+
+"<rind'a>"
+	"*rind'a"
+
+"<nfíno>"
+	"*nfíno"
+
+"<Francia>"
+	"*Francia"
+
+"<pubblicata>"
+	"*pubblicata"
+
+"<Tolosa>"
+	"*Tolosa"
+
+"<rivendica>"
+	"*rivendica"
+
+"<Tonco>"
+	"*Tonco"
+
+"<femmina>"
+	"*femmina"
+
+"<Tipica>"
+	"*Tipica"
+
+"<Calabrese>"
+	"*Calabrese"
+
+"<culonia>"
+	"*culonia"
+
+"<balcaneca>"
+	"*balcaneca"
+
+"<Sensini>"
+	"*Sensini"
+
+"<coeruleus>"
+	"*coeruleus"
+
+"<l'importanza>"
+	"*l'importanza"
+
+"<bevanda>"
+	"*bevanda"
+
+"<udamerica>"
+	"*udamerica"
+
+"<c'ò>"
+	"*c'ò"
+
+"<Cazzipocchio>"
+	"*Cazzipocchio"
+
+"<fìsece>"
+	"*fìsece"
+
+"<annutata>"
+	"*annutata"
+
+"<Aslan>"
+	"*Aslan"
+
+"<Induìsemo>"
+	"*Induìsemo"
+
+"<tensore>"
+	"*tensore"
+
+"<pu>"
+	"*pu"
+
+"<migliare>"
+	"*migliare"
+
+"<Choice>"
+	"*Choice"
+
+"<dato>"
+	"*dato"
+
+"<produttiva>"
+	"*produttiva"
+
+"<capreole>"
+	"*capreole"
+
+"<Barzana>"
+	"*Barzana"
+
+"<cuntinuattero>"
+	"*cuntinuattero"
+
+"<Siffin>"
+	"*Siffin"
+
+"<funerale>"
+	"*funerale"
+
+"<fera>"
+	"*fera"
+
+"<abutaggio>"
+	"*abutaggio"
+
+"<ommaria>"
+	"*ommaria"
+
+"<Patrimmone>"
+	"*Patrimmone"
+
+"<Trenitalia>"
+	"*Trenitalia"
+
+"<Amalpha>"
+	"*Amalpha"
+
+"<WMAP>"
+	"*WMAP"
+
+"<polizia>"
+	"*polizia"
+
+"<appennine>"
+	"*appennine"
+
+"<dichiarazzione>"
+	"*dichiarazzione"
+
+"<Ggià>"
+	"*Ggià"
+
+"<Oland>"
+	"*Oland"
+
+"<Jelsi>"
+	"*Jelsi"
+
+"<imitate>"
+	"*imitate"
+
+"<Diventanno>"
+	"*Diventanno" 
+
+
+"<appriess'>"
+	"*appriess'"
+
+
+"<n'atomo>"
+	"*n'atomo" 
+
+
+"<cuciuto>"
+	"*cuciuto" adj
+
+
+"<tradeziune>"
+	"*tradeziune" n m sg
+
+
+"<emifinal’>"
+	"*emifinal’" n
+
+
+"<decodèrr>"
+	"*decodèrr" vblex
+
+
+"<viecchio>"
+	"*viecchio" adj m sg
+
+
+"<Seine>"
+	"*Seine" np
+
+
+"<uguale>"
+	"*uguale" adj
+
+"<tó'>"
+	"*tó'" pr
+
+
+"<Corsu>"
+	"*Corsu" np
+
+
+"<Tammaro>"
+	"*Tammaro" np
+
+
+"<ottobr>"
+	"*ottobr" np
+
+
+"<jettà>"
+	"*jettà" vblex
+
+
+"<ricamo>"
+	"*ricamo" n m sg
+
+
+"<panuramica>"
+	"*panuramica" n f sg
+
+
+"<tenut>"
+	"*tenut"
+
+
+"<piacuta>"
+	"*piacuta" adj
+
+
+"<veseta>"
+	"*veseta" n
+
+
+"<rrotte>"
+	"*rrotte" adj
+
+
+"<pustono>"
+	"*pustono" n
+
+
+"<uppusizzione>"
+	"*uppusizzione" n
+
+
+"<Meskimen>"
+	"*Meskimen" np
+
+
+"<Alberona>"
+	"*Alberona" np
+
+
+"<Aligherio>"
+	"*Aligherio" np
+
+
+"<mbuttunate>"
+	"*mbuttunate" adj
+
+
+"<cialu>"
+	"*cialu" adj
+
+
+"<ètica>"
+	"*ètica" n
+
+"<one>"
+	"*one" fl
+
+
+"<Dilettante>"
+	"*Dilettante" adj
+
+
+"<sicurezz>"
+	"*sicurezz" n
+"<.>"
+	"." sent
+
+
+
+"<passàt>"
+	"*passàt"
+
+"<vot'â>"
+	"*vot'â"
+
+"<z’ala>"
+	"*z’ala"
+
+"<celindre>"
+	"*celindre"
+
+"<Berlusconi>"
+	"*Berlusconi"
+
+"<disoccupazione>"
+	"*disoccupazione"
+
+"<^Giovanni>"
+	"*Giovanni"
+
+"<Pratiglione>"
+	"*Pratiglione"
+
+"<entrambe>"
+	"*entrambe"
+
+"<godettero>"
+	"*godettero"
+
+"<ll'arcate>"
+	"*ll'arcate"
+
+"<cumprecata>"
+	"*cumprecata"
+
+"<conesse>"
+	"*conesse"
+
+"<inedite>"
+	"*inedite"
+
+"<fù>"
+	"*fù"
+
+"<l'aggressione>"
+	"*l'aggressione"
+
+"<l'asteroide>"
+	"*l'asteroide"
+
+"<imprenditore>"
+	"*imprenditore"
+
+"<carcera>"
+	"*carcera"
+
+"<cunzíderane>"
+	"*cunzíderane"
+
+"<dopôcàlce>"
+	"*dopôcàlce"
+
+"<Garlenda>"
+	"*Garlenda"
+
+"<n’eccendrecetà>"
+	"*n’eccendrecetà"
+
+"<Piérgiuann>"
+	"*Piérgiuann"
+
+"<allèro>"
+	"*allèro"
+
+"<rignanti>"
+	"*rignanti"
+
+"<campanianno>"
+	"*campanianno"
+
+"<insubri>"
+	"*insubri"
+
+"<Coredo>"
+	"*Coredo"
+
+"<In>"
+	"in" pr
+
+"<Turano>"
+	"*Turano"
+
+"<ramégna>"
+	"*ramégna"
+
+"<ecchenì>"
+	"*ecchenì"
+
+"<CTP>"
+	"*CTP"
+
+"<priparene>"
+	"*priparene"
+
+"<L'>"
+	"lo" prn pro p3 m sg
+	"lo" prn pro p3 f sg
+
+"<P''a>"
+	"p''a" pr
+
+"<'>"
+	"'" sent
+
+"<.>"
+	"." sent
+
+

@@ -1,0 +1,1334 @@
+"<quano>"
+	"quano" n
+
+"<Barone>"
+	"Barone" np
+
+"<Arluno>"
+	"Arluno" np
+
+"<Romanda>"
+	"Romanda" np
+
+"<purpettelle>"
+	"purpettelle" n pl mf
+
+"<Nicoletti>"
+	"Nicoletti" np
+
+"<Auropee>"
+	"Auropee" np
+ 
+"<Sarei>"
+	"Sarei" fl
+
+"<Sustinente>"
+	"Sustinente" adj mf
+
+"<presentaje>"
+	"presentaje" 
+
+"<propreto>"
+	"propreto" n m sg
+
+"<avéssene>"
+	"avéssene" vblex
+
+"<Precenico>"
+	"Precenico" np
+
+"<Sò>"
+	"Sò" n vblex pri f p1 sg
+	"Sò" n vblex pri f p1 sg
+
+"<ch'assaje>"
+	"ch'assaje" vblex
+
+"<Trissino>"
+	"Trissino" np
+
+"<cchiò>"
+	"cchiò" prn
+
+"<frisch>"
+	"frisch" adj mf
+
+"<rinunciaje>"
+	"rinunciaje" vblex
+
+"<Galeata>"
+	"Galeata" p
+
+"<Cefalù>"
+	"Cefalù" np
+
+"<vallutazziune>"
+	"vallutazziune" n sg f
+
+"<presa>"
+	"presa" n sg fm
+	"presa" vblex
+
+"<funnera>"
+	"funnera" n
+
+"<Pul>"
+	"Pul" np
+
+"<Fìsh>"
+	"Fìsh" np
+
+"<adiologgeche>"
+	"adiologgeche" n
+
+"<càmmera>"
+	"càmmera" n
+
+"<dimensione>"
+	"dimensione" n sg f
+
+"<ran>"
+	"ran" fl
+
+"<Pistoiese>"
+	"Pistoiese" np
+
+"<pacche>"
+	"pacche" n
+
+"<Islanda>"
+	"Islanda" n sg f
+
+"<nniente>"
+	"nniente" n sg mf
+
+"<Militu>"
+	"Militu" np
+
+"<casatiéllo>"
+	"casatiéllo" n sg m
+
+"<urprennente>"
+	"urprennente" adj
+
+"<per>"
+	"per" pr
+
+"<Libbano>"
+	"Libbano" np
+
+"<gavetta>"
+	"gavetta" n
+
+"<l'Algirìa>"
+	"l'Algirìa" np
+
+"<Manacorda>"
+	"Manacorda" np
+
+"<Istituita>"
+	"Istituita" n
+
+"<fallette>"
+	"fallette" vblex
+
+"<assecurate>"
+	"assecurate" vblex
+
+"<Costruttori>"
+	"Costruttori" n m pl
+	"Costruttori" n mf pl
+
+"<lesta>"
+	"lesta" n
+
+"<Arresi>"
+	"Arresi" np
+
+"<Reserva>"
+	"Reserva" n 
+	"Reserva" np
+
+"<fiocchi>"
+	"fiocchi" n m pl
+
+"<Cicerenella>"
+	"Cicerenella" np
+
+"<famusa>"
+	"famusa" adj f sg
+
+"<campionati>"
+	"campionati" n m pl
+
+"<agglumerato>"
+	"agglumerato" adj m sg
+
+"<Lima>"
+	"Lima" np
+
+"<alëvezza>"
+	"alëvezza" n f sg
+
+"<ll'aragunese>"
+	"ll'aragunese" n mf sg
+
+"<musdée>"
+	"musdée" n
+
+"<ncurneciate>"
+	"ncurneciate" adj mf sg
+	"ncurneciate" adj f sg
+
+"<orografiche>"
+	"orografiche" adj f pl
+	"orografiche" adj mf pl
+
+"<d'appriparà>"
+	"d'appriparà" vblex
+
+"<Burgraviato>"
+	"Burgraviato" np
+
+"<attrazzioni>"
+	"attrazzioni" n m pl
+
+"<Padrone>"
+	"Padrone" n m sg
+
+"<rinforza>"
+	"rinforza" vblex 
+
+"<Pirë>"
+	"Pirë" np
+
+"<cuntemporaneamente>"
+	"cuntemporaneamente" adv
+
+"<gemellato>"
+	"gemellato" adj m sg
+
+"<tiempe>"
+	"tiempe" n m sg
+	"tiempe" n mf sg
+
+"<un'intervista>"
+	"un'intervista" n 
+
+"<fundraiser>"
+	"fundraiser" fl
+
+"<ubmëditërranëa>"
+	"ubmëditërranëa" adj f sg
+
+"<Serrungarina>"
+	"Serrungarina" np
+
+"<Giuffrè>"
+	"Giuffrè" np
+
+"<chiammajeno>"
+	"chiammajeno" vblex
+
+"<appejárene>"
+	"appejárene" vblex
+
+"<Formigine>"
+	"Formigine" np
+
+"<mussulmano>"
+	"mussulmano" adj m sg
+
+"<coprincipe>"
+	"coprincipe" n
+
+"<repassat’a>"
+	"repassat’a" adj
+
+"<puoch>"
+	"puoch" adj m sg
+
+"<esišt>"
+	"esišt" vblex
+
+"<d'Erfurt>"
+	"d'Erfurt" np
+
+"<D'Aquine>"
+	"D'Aquine" np
+
+"<arrevà>"
+	"arrevà" vblex
+
+"<à>"
+	"à" pr
+
+"<Gergei>"
+	"Gergei" np
+
+"<Scandenavia>"
+	"Scandenavia" np
+
+"<Ravara>"
+	"Ravara" np
+
+"<Cossignano>"
+	"Cossignano" np
+
+"<d'eruzzione>"
+	"d'eruzzione" np
+
+"<esotice>"
+	"esotice" adj f pl
+	"esotice" adj m sg
+
+"<Kamil>"
+	"Kamil" np
+
+"<arricetta>"
+	"arricetta" n f sg
+
+"<uod>"
+	"uod" vblex
+
+"<S'hadda>"
+	"S'hadda" np
+
+"<italiano>"
+	"italiano" adj m sg
+
+"<cinquantadòje>"
+	"cinquantadòje" n mf sg
+
+"<ua>"
+	"ua" prn
+
+"<ultimà>"
+	"ultimà" n f sg
+
+"<Leone>"
+	"Leone" np
+
+"<Pullitro>"
+	"Pullitro" np
+
+"<italiana>"
+	"italiana" adj f sg
+
+"<massarìa>"
+	"massarìa" n
+
+"<reggione>"
+	"reggione" n f pl
+	"reggione" n m sg
+
+"<amministr'>"
+	"amministr'" vblex
+
+"<túbbere>"
+	"túbbere" vblex
+
+"<napeletane>"
+	"napeletane" adj mf sg
+	"napeletane" adj mf pl
+
+"<l’asterisco>"
+	"l’asterisco" n
+
+"<etnica>"
+	"etnica" adj f sg
+
+"<Bomis>"
+	"Bomis" np
+
+"<Paruliere>"
+	"Paruliere" np
+
+"<zamba>"
+	"zamba" n
+
+"<n'artista>"
+	"n'artista" n m sg
+
+"<Règgia>"
+	"Règgia" np
+
+"<L'Aja>"
+	"L'Aja" n
+
+"<circondario>"
+	"circondario" adj m sg
+
+"<quotate>"
+	"quotate" adj
+
+"<picca>"
+	"picca" vblex
+
+"<Krasnaja>"
+	"Krasnaja" np
+
+"<giustiziati>"
+	"giustiziati" adj m pl
+
+"<bbera>"
+	"bbera" vblex
+
+"<êva>"
+	"êva" vblex
+
+"<fèlla>"
+	"fèlla" vblex
+
+"<fresco>"
+	"fresco" adj s m
+
+"<Codevilla>"
+	"Codevilla" np
+
+"<Campaldino>"
+	"Campaldino" np
+
+"<Reggiunale>"
+	"Reggiunale" adj
+
+"<Curradino>" 
+	"Curradino" np
+
+"<León>"
+	"León" np
+
+"<IIIe>"
+	"IIIe" num mf sp
+
+"<Malepenziero>"
+	"Malepenziero" n m sg
+
+"<facetta>"
+	"facetta" vblex
+	"facetta" n f sg
+
+"<Teide>"
+	"Teide" np
+
+"<affronta>"
+	"affronta" vblex
+
+"<Palmas>"
+	"Palmas" np
+
+"<Pontifices>"
+	"Pontifices" np
+
+"<riavulo>"
+	"riavulo" n m sg
+
+"<peculesse>"
+	"peculesse" adj 
+
+"<verevano>"
+	"verevano" vblex
+
+"<trìatro>"
+	"trìatro" n 
+
+"<Quaresma>"
+	"Quaresma" np
+
+"<Griffo>"
+	"Griffo" np
+
+"<decisionale>"
+	"decisionale" adj m sg
+
+"<finali>"
+	"finali" n m pl
+
+"<urco>"
+	"urco" n m sg
+
+"<e'ngresi>"
+	"e'ngresi" n m pl
+
+"<Roccabruna>"
+	"Roccabruna" np
+
+"<fecatielle>"
+	"fecatielle" vblex
+
+"<Eremo>"
+	"Eremo" vblex
+
+"<trascuraje>"
+	"trascuraje" vblex
+
+"<fernette>"
+	"fernette"
+
+"<piscatora>"
+	"piscatora" n f sg
+
+"<elettrone>"
+	"elettrone" n f pl
+
+"<cumuni>"
+	"cumune" n m pl
+
+"<tazzjona>"
+	"tazzjona" n
+
+"<truate>"
+	"truate" adj
+
+"<epulture>"
+	"epulture" n f pl
+
+"<gurfo>"
+	"gurfo" n m sg
+
+"<ppecure>"
+	"ppecure" n m sg
+
+"<decrecato>"
+	"decrecato" adj
+
+"<Costarainera>"
+	"Costarainera" np
+
+"<vattienti>"
+	"vattienti" adj m pl
+
+"<l’ajuta>"
+	"l’ajuta" n f sg
+
+"<Milis>"
+	"Milis" np
+
+"<Cinematografia>"
+	"Cinematografia" n
+
+"<Genovese>"
+	"Genovese" adj
+
+"<purtat>"
+	"purtat" vblex
+
+"<Supercoppe>"
+	"Supercoppe" np
+
+"<viceversa>"
+	"viceversa"
+
+"<ll'Iraq>"
+	"ll'Iraq" np
+
+"<simu>"
+	"simu" prn p3 
+
+"<hamigghja>"
+	"hamigghja" n sg f
+
+"<Depardieu>"
+	"Depardieu" np
+
+"<avrebbe>"
+	"avrebbe" vblex
+
+"<'>"
+	"'" sent
+"<appreparasse>"
+	"appreparasse"
+
+"<Cosenza>"
+	"Cosenza" np
+
+"<pruvvisoriamente>"
+	"pruvvisoriamente" adv
+
+"<Giulie>"
+	"Giulie" np
+
+"<l'Hamòn>"
+	"l'Hamòn" np
+
+"<Martelli>"
+	"Martelli" np
+
+"<Escolca>"
+	"Escolca" np
+
+"<Questo>"
+	"Questo" prn m sg 
+	"Questo" n m sg
+
+"<Film>"
+	"Film" n m sg
+
+"<l'isolotto>"
+	"l'isolotto" n m sg
+
+"<Commissari>"
+	"Commissari" n m pl
+
+"<altèzza>"
+	"altèzza" n f sg
+
+"<ppoco>"
+	"ppoco" adj m sg
+
+"<Troja>"
+	"Troja" np
+
+"<Calvello>"
+	"Calvello" np
+
+"<pandeche>"
+	"pandeche" n
+
+"<Botticino>"
+	"Botticino" np
+
+"<pussìbbele>"
+	"pussìbbele" adj f pl
+	"pussìbbele" adj m sg
+
+"<Breslavia>"
+	"Breslavia" np
+
+"<Trip>"
+	"Trip" fl
+
+"<mulegnane>"
+	"mulegnane" n f pl
+
+"<Illiri>"
+	"Illiri" n 
+
+"<nu>"
+	"nu" det ind mf sg
+
+"<vulévano>"
+	"vulévano" vblex
+
+"<Greczek>"
+	"Greczek" np
+
+"<Pecurare>"
+	"Pecurare" np
+
+"<Crowe>"
+	"Crowe" np
+
+"<Camere>"
+	"Camere" n fm pl
+
+"<infermi>"
+	"infermi" n m pl
+
+"<nùmmuro>"
+	"nùmmuro" n m sg
+
+"<Vallune>"
+	"Vallune" np
+
+"<caulisciore>"
+	"caulisciore"
+
+"<p'ati>"
+	"p'ati" n pl
+
+"<vedeva>"
+	"vedeva" vblex
+
+"<Ponzano>"
+	"Ponzano" np
+
+"<ebraeco>"
+	"ebraeco" adj
+
+"<bbreve>"
+	"bbreve" adj f m
+
+"<Perrero>"
+	"Perrero" np
+
+"<c'addefènnono>"
+	"c'addefènnono" vblex
+
+"<assjeme>"
+	"assjeme"
+
+"<ze>"
+	"ze" vblex
+
+"<aje>"
+	"aje" vblex
+
+"<Camões>"
+	"Camões" np
+
+"<tuoste>"
+	"tuoste" adj mf sg
+	"tuoste" adj mf pl
+
+"<hatta>"
+	"hatta" vblex
+
+"<temple>"
+	"temple" fl
+
+"<Rialite>"
+	"Rialite" np
+
+"<Marinaio>"
+	"Marinaio" np
+
+"<Assemini>"
+	"Assemini" np
+
+"<Pofi>"
+	"Pofi" np
+
+"<Antipatro>"
+	"Antipatro" np
+
+"<prupiamente>"
+	"prupiamente" adv
+
+"<assettà>"
+	"assettà" vblex
+
+"<recheta>"
+	"recheta" n f sg
+
+"<Foris>"
+	"Foris" np
+
+"<chiejà>"
+	"chiejà" vblex
+
+"<austriaco>"
+	"austriaco"
+
+"<minute>"
+	"minute" n f pl
+
+"<Trent'Anne>"
+	"Trent'Anne" n f pl
+
+"<campette>"
+	"campette" n
+	"campette" vblex
+
+"<persunale>"
+	"persunale" adj f pl
+	"persunale" adj m sg
+
+"<Canosa>"
+	"Canosa" np
+
+"<iniziative>"
+	"iniziative" n m sg
+	"iniziative" n f pl
+
+"<Ricceddi>"
+	"Ricceddi" np
+
+"<vufera>"
+	"vufera" n f sg
+
+"<Myra>"
+	"Myra" n
+
+"<crivette>"
+	"crivette" vblex
+
+"<ll'Unione>"
+	"ll'Unione" n m sg
+	"ll'Unione" n f pl
+
+"<^E'>"
+	"e'" det def f pl
+
+"<lottà>"
+	"lottà" n
+
+"<Montaguto>"
+	"Montaguto" np
+
+"<'>"
+	"'" sent
+"<êveno>"
+	"êveno" vblex
+
+"<pubblicamente>"
+	"pubblicamente" adv
+
+"<Nfronte>"
+	"Nfronte" adj
+
+"<ripetuto>"
+	"ripetuto"
+
+"<Summonte>"
+	"Summonte" np
+
+"<cummercio>"
+	"cummercio" n
+
+"<assjae>"
+	"assjae" adj
+
+"<avvanta>"
+	"avvanta" adj
+
+"<Reggello>"
+	"Reggello" np 
+
+"<narrantur>"
+	"narrantur" n
+
+"<Melfa>"
+	"Melfa" np
+
+"<Vièrde>"
+	"Vièrde" adj mf sg
+
+"<Hilbert>"
+	"Hilbert" np
+
+"<apparecchi>"
+	"apparecchi"
+
+"<nizzialmente>"
+	"nizzialmente" adv
+
+"<Florent>"
+	"Florent" np
+
+"<traguardo>"
+	"traguardo" n sg m
+
+"<Gais>"
+	"Gais" np
+
+"<ordinajene>"
+	"ordinajene" vblex
+
+"<annanz>"
+	"annanz" adj mf sg
+	"annanz" adj mf pl
+
+"<ll'utiente>"
+	"ll'utiente" n m sg
+
+"<ll'ANICA>"
+	"ll'ANICA" np
+
+"<cucìna>"
+	"cucìna" n f sg
+
+"<priat>"
+	"priat" vblex
+
+"<ccanoscere>"
+	"ccanoscere" vblex
+
+"<Campofelice>"
+	"Campofelice" np
+
+"<grafe>"
+	"grafe" n f pl
+	"grafe" n m sg
+
+"<fondo>"
+	"fondo" adj m sg
+
+"<ddispiri>"
+	"ddispiri" adj m pl
+
+"<Luigi>"
+	"Luigi" np
+
+"<Mertens>"
+	"Mertens" np
+
+"<all'arrivo>"
+	"all'arrivo"
+
+"<uccedenno>"
+	"uccedenno" vblex
+
+"<Spogna>"
+	"Spogna" n f sg
+
+"<attivamente>"
+	"attivamente" adv
+
+"<fejéva>"
+	"fejéva" vblex
+
+"<nummenanno>"
+	"nummenanno" vblex
+
+"<federazziune>"
+	"federazziune" n m sg
+	"federazziune" n f pl
+
+"<^fessaria>"
+	"fessaria" n f sg
+
+"<Lardini>"
+	"Lardini" np
+
+"<puonn>"
+	"puonn" vblex
+
+"<maéstra>"
+	"maéstra" n f sg
+
+"<funziunava>"
+	"funziunava" vblex
+
+"<emmanale>"
+	"emmanale" adj
+
+"<passagaglio>"
+	"passagaglio" n m sg
+
+"<Cerreto>"
+	"Cerreto" np
+
+"<folta>"
+	"folta" n f sg
+
+"<Sulamènd>"
+	"Sulamènd" np
+
+"<mbarca>"
+	"mbarca" vblex
+
+"<conjuge>"
+	"conjuge" n m sg
+
+"<italicus>"
+	"italicus" adj
+
+"<Sinello>"
+	"Sinello" np
+
+"<rivuluzione>"
+	"rivuluzione" n f pl
+
+"<Cenerentula>"
+	"Cenerentula" np
+
+"<d’asà>"
+	"d’asà" vblex
+
+"<bastemiente>"
+	"bastemiente" n
+
+"
+"<^Vi>"
+	"Vi" vblex
+
+"<Date>"
+	"Date" n
+
+"<aromatiche>"
+	"aromatiche" adj
+
+"<Heinz>"
+	"Heinz" np
+
+"<rind'a>"
+	"rind'a" pr
+
+"<nfíno>"
+	"nfíno" adj
+
+"<Francia>"
+	"Francia" np
+
+"<pubblicata>"
+	"pubblicata" adj
+
+"<Tolosa>"
+	"Tolosa" np
+
+"<rivendica>"
+	"rivendica" vblex
+
+"<Tonco>"
+	"Tonco" np
+
+"<femmina>"
+	"femmina" n
+
+"<Tipica>"
+	"Tipica" adj
+
+"<Calabrese>"
+	"Calabrese" adj
+
+"<culonia>"
+	"culonia" adj
+
+"<balcaneca>"
+	"balcaneca" adj
+
+"<Sensini>"
+	"Sensini" np
+
+"<coeruleus>"
+	"coeruleus" n
+
+"<l'importanza>"
+	"l'importanza" n
+
+"<bevanda>"
+	"bevanda" n
+
+"<udamerica>"
+	"udamerica" n
+
+"<c'ò>"
+	"c'ò" prn
+
+"<Cazzipocchio>"
+	"Cazzipocchio" np
+
+"<fìsece>"
+	"fìsece" n
+
+"<annutata>"
+	"annutata" adj
+
+"<Aslan>"
+	"Aslan" np
+
+"<Induìsemo>"
+	"Induìsemo" np
+
+"<tensore>"
+	"tensore" n
+
+"<pu>"
+	"pu" adj
+
+"<migliare>"
+	"migliare" vblex
+
+"<Choice>"
+	"Choice" fl
+
+"<dato>"
+	"dato" n m sg
+
+"<produttiva>"
+	"produttiva" n f sg
+
+"<capreole>"
+	"capreole" n
+
+"<Barzana>"
+	"Barzana" np
+
+"<cuntinuattero>"
+	"cuntinuattero" n
+
+"<Siffin>"
+	"Siffin" np
+
+"<funerale>"
+	"funerale" n m sg
+
+"<fera>"
+	"fera" n
+
+"<abutaggio>"
+	"abutaggio" n
+
+"<ommaria>"
+	"ommaria" n
+
+"<Patrimmone>"
+	"Patrimmone" n
+
+"<Trenitalia>" 
+	"Trenitalia" np
+
+"<Amalpha>"
+	"Amalpha" np
+
+"<WMAP>"
+	"WMAP" np
+
+"<polizia>"
+	"polizia"
+
+"<appennine>"
+	"appennine" 
+
+"<dichiarazzione>"
+	"dichiarazzione" n
+
+"<Ggià>"
+	"Ggià" adv
+
+"<Oland>"
+	"Oland" np
+
+"<Jelsi>"
+	"Jelsi" np
+
+"<imitate>"
+	"imitate" vblex
+
+"<Diventanno>"
+	"Diventanno" vblex
+
+
+"<appriess'>"
+	"appriess'"  
+
+
+"<n'atomo>"
+	"n'atomo" n
+
+
+"<cuciuto>"
+	"cuciuto" adj
+
+
+"<tradeziune>"
+	"tradeziune" n m sg
+
+
+"<emifinal’>"
+	"emifinal’" n
+
+
+"<decodèrr>"
+	"decodèrr" vblex
+
+
+"<viecchio>"
+	"viecchio" adj m sg
+
+
+"<Seine>"
+	"Seine" np
+
+
+"<uguale>"
+	"uguale" adj
+
+"<tó'>"
+	"tó'" pr
+
+
+"<Corsu>"
+	"Corsu" np
+
+
+"<Tammaro>"
+	"Tammaro" np
+
+
+"<ottobr>"
+	"ottobr" np
+
+
+"<jettà>"
+	"jettà" vblex
+
+
+"<ricamo>"
+	"ricamo" n m sg
+
+
+"<panuramica>"
+	"panuramica" n f sg
+
+
+"<tenut>"
+	"tenut"
+
+
+"<piacuta>"
+	"piacuta" adj
+
+
+"<veseta>"
+	"veseta" n
+
+
+"<rrotte>"
+	"rrotte" adj
+
+
+"<pustono>"
+	"pustono" n
+
+
+"<uppusizzione>"
+	"uppusizzione" n
+
+
+"<Meskimen>"
+	"Meskimen" np
+
+
+"<Alberona>"
+	"Alberona" np
+
+
+"<Aligherio>"
+	"Aligherio" np
+
+
+"<mbuttunate>"
+	"mbuttunate" adj
+
+
+"<cialu>"
+	"cialu" adj
+
+
+"<ètica>"
+	"ètica" n
+
+"<one>"
+	"one" fl
+
+
+"<Dilettante>"
+	"Dilettante" adj
+
+
+"<sicurezz>"
+	"sicurezz" n
+"<.>"
+	"." sent
+
+"<passàt>"
+	"passàt" adj
+
+"<vot'â>"
+	"vot'â" vblex
+
+"<z’ala>"
+	"z’ala" adj
+
+"<celindre>"
+	"celindre" n
+
+"<Berlusconi>"
+	"Berlusconi" np
+
+"<disoccupazione>"
+	"disoccupazione" n
+
+"<^Giovanni>"
+	"Giovanni" np
+
+"<Pratiglione>"
+	"Pratiglione" np
+
+"<entrambe>"
+	"entrambe" adj
+
+"<godettero>"
+	"godettero" n
+
+"<ll'arcate>"
+	"ll'arcate" n
+
+"<cumprecata>"
+	"cumprecata" adj
+
+"<conesse>"
+	"conesse" vblex
+
+"<inedite>"
+	"inedite" adj
+
+"<fù>"
+	"fù" vblex
+
+"<l'aggressione>"
+	"l'aggressione" n
+
+"<l'asteroide>"
+	"l'asteroide" n
+
+"<imprenditore>"
+	"imprenditore" n
+
+"<carcera>"
+	"carcera" n
+
+"<cunzíderane>"
+	"cunzíderane" vblex
+
+"<dopôcàlce>"
+	"dopôcàlce" n
+
+"<Garlenda>"
+	"Garlenda" np
+
+"<n’eccendrecetà>"
+	"n’eccendrecetà" n
+
+"<Piérgiuann>"
+	"Piérgiuann" np
+
+"<allèro>"
+	"allèro" vblex
+
+"<rignanti>"
+	"rignanti" adj
+
+"<campanianno>"
+	"campanianno" n
+
+"<insubri>"
+	"insubri" vblex
+
+"<Coredo>"
+	"Coredo" np
+
+"<In>"
+	"in" pr
+
+"<Turano>"
+	"Turano" np
+
+"<ramégna>"
+	"ramégna" n
+
+"<ecchenì>"
+	"ecchenì" vblex
+
+"<CTP>"
+	"CTP" np
+
+"<priparene>"
+	"priparene" vblex
+
+"<L'>"
+	"lo" prn pro p3 m sg
+	"lo" prn pro p3 f sg
+
+"<P''a>"
+	"p''a" pr
+
+"<'>"
+	"'" sent
+
+"<.>"
+	"." sent
+
+
